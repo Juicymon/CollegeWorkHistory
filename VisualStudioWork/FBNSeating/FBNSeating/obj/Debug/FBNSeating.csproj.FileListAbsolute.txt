@@ -1,0 +1,12 @@
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\bin\Debug\FBNSeating.exe.config
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\bin\Debug\FBNSeating.exe
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\bin\Debug\FBNSeating.pdb
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\obj\Debug\FBNSeating.Form1.resources
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\obj\Debug\FBNSeating.Properties.Resources.resources
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\obj\Debug\FBNSeating.csproj.GenerateResource.cache
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\obj\Debug\FBNSeating.csproj.CoreCompileInputs.cache
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\obj\Debug\FBNSeating.exe
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\obj\Debug\FBNSeating.pdb
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\obj\Debug\FBNSeating.Form3.resources
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\obj\Debug\FBNSeating.Form2.resources
+C:\Users\jo001\source\repos\FBNSeating\FBNSeating\obj\Debug\FBNSeating.csproj.AssemblyReference.cache
