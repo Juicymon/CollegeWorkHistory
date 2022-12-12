@@ -1,0 +1,13 @@
+C:\Users\jo001\source\repos\StartingExample\StartingExample\bin\Debug\netcoreapp3.1\StartingExample.exe
+C:\Users\jo001\source\repos\StartingExample\StartingExample\bin\Debug\netcoreapp3.1\StartingExample.deps.json
+C:\Users\jo001\source\repos\StartingExample\StartingExample\bin\Debug\netcoreapp3.1\StartingExample.runtimeconfig.json
+C:\Users\jo001\source\repos\StartingExample\StartingExample\bin\Debug\netcoreapp3.1\StartingExample.runtimeconfig.dev.json
+C:\Users\jo001\source\repos\StartingExample\StartingExample\bin\Debug\netcoreapp3.1\StartingExample.dll
+C:\Users\jo001\source\repos\StartingExample\StartingExample\bin\Debug\netcoreapp3.1\StartingExample.pdb
+C:\Users\jo001\source\repos\StartingExample\StartingExample\obj\Debug\netcoreapp3.1\StartingExample.csprojAssemblyReference.cache
+C:\Users\jo001\source\repos\StartingExample\StartingExample\obj\Debug\netcoreapp3.1\StartingExample.AssemblyInfoInputs.cache
+C:\Users\jo001\source\repos\StartingExample\StartingExample\obj\Debug\netcoreapp3.1\StartingExample.AssemblyInfo.cs
+C:\Users\jo001\source\repos\StartingExample\StartingExample\obj\Debug\netcoreapp3.1\StartingExample.csproj.CoreCompileInputs.cache
+C:\Users\jo001\source\repos\StartingExample\StartingExample\obj\Debug\netcoreapp3.1\StartingExample.dll
+C:\Users\jo001\source\repos\StartingExample\StartingExample\obj\Debug\netcoreapp3.1\StartingExample.pdb
+C:\Users\jo001\source\repos\StartingExample\StartingExample\obj\Debug\netcoreapp3.1\StartingExample.genruntimeconfig.cache

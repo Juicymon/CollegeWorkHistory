@@ -1,0 +1,13 @@
+C:\Users\jo001\source\repos\FileActivity\FileActivity\bin\Debug\netcoreapp3.1\FileActivity.exe
+C:\Users\jo001\source\repos\FileActivity\FileActivity\bin\Debug\netcoreapp3.1\FileActivity.deps.json
+C:\Users\jo001\source\repos\FileActivity\FileActivity\bin\Debug\netcoreapp3.1\FileActivity.runtimeconfig.json
+C:\Users\jo001\source\repos\FileActivity\FileActivity\bin\Debug\netcoreapp3.1\FileActivity.runtimeconfig.dev.json
+C:\Users\jo001\source\repos\FileActivity\FileActivity\bin\Debug\netcoreapp3.1\FileActivity.dll
+C:\Users\jo001\source\repos\FileActivity\FileActivity\bin\Debug\netcoreapp3.1\FileActivity.pdb
+C:\Users\jo001\source\repos\FileActivity\FileActivity\obj\Debug\netcoreapp3.1\FileActivity.csprojAssemblyReference.cache
+C:\Users\jo001\source\repos\FileActivity\FileActivity\obj\Debug\netcoreapp3.1\FileActivity.AssemblyInfoInputs.cache
+C:\Users\jo001\source\repos\FileActivity\FileActivity\obj\Debug\netcoreapp3.1\FileActivity.AssemblyInfo.cs
+C:\Users\jo001\source\repos\FileActivity\FileActivity\obj\Debug\netcoreapp3.1\FileActivity.csproj.CoreCompileInputs.cache
+C:\Users\jo001\source\repos\FileActivity\FileActivity\obj\Debug\netcoreapp3.1\FileActivity.dll
+C:\Users\jo001\source\repos\FileActivity\FileActivity\obj\Debug\netcoreapp3.1\FileActivity.pdb
+C:\Users\jo001\source\repos\FileActivity\FileActivity\obj\Debug\netcoreapp3.1\FileActivity.genruntimeconfig.cache
