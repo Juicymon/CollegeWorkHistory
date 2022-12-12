@@ -1,0 +1,10 @@
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\bin\Debug\Assignment3_Catering.exe.config
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\bin\Debug\Assignment3_Catering.exe
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\bin\Debug\Assignment3_Catering.pdb
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\obj\Debug\Assignment3_Catering.csprojAssemblyReference.cache
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\obj\Debug\Assignment3_Catering.Form1.resources
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\obj\Debug\Assignment3_Catering.Properties.Resources.resources
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\obj\Debug\Assignment3_Catering.csproj.GenerateResource.cache
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\obj\Debug\Assignment3_Catering.csproj.CoreCompileInputs.cache
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\obj\Debug\Assignment3_Catering.exe
+C:\Users\jo001\source\repos\Assignment3_Catering\Assignment3_Catering\obj\Debug\Assignment3_Catering.pdb
