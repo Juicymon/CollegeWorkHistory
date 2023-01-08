@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Weekly Sleep Tracker</title>
+    <link rel="stylesheet" href="Midterm.css">
+    <script src="Midterm.js"></script>
+</head>
+
+<body>
+<main>
+    <h1>Weekly Sleep Tracker</h1>
+    <!--add the form-->
+    <form id="your_details" name="your_details" action="#">
+        <header>
+            <h2>Enter Your information</h2>
+        </header>
+
+        <label for="username">Username</label>
+        <input id="username" type="text" placeholder="Enter your username" required maxlength="10">
+
+        <label for="age">Age</label>
+        <input id="age" type="number" placeholder="Enter your age" required min="5" max="120">
+
+        <input type="submit" value="Submit" class="button-style" id="submit">
+    </form>
+
+    <!--add the drop-down list-->
+    <label for="days" id="day-label">Choose a day:</label><br><br>
+    <select id="days">
+        <option value="Monday">Monday</option>
+        <option value="Tuesday">Tuesday</option>
+        <option value="Wednesday">Wednesday</option>
+        <option value="Thursday">Thursday</option>
+        <option value="Friday">Friday</option>
+        <option value="Saturday">Saturday</option>
+        <option value="Sunday">Sunday</option>
+    </select><br><br>
+
+
+    <!--input for sleep duration-->
+    <label for="sleep-time">Sleep duration in hours</label>
+    <input id="sleep-time" type="number">
+
+    <!--button for updating sleep duration-->
+    <input type="button" value="Update" class="button-style" id="update">
+    <!--button for calculating average sleep-->
+    <input type="button" value="Average Sleep" class="button-style" id="average">
+    <!--text box for showing average sleep-->
+    <label for="avg-sleep">Average sleep duration for this week:</label>
+    <input id="avg-sleep">
+   <!--button for Track My Sleep -->
+    <input type="button" value="Track my Sleep" class="button-style" id="track-sleep">
+  <!--div for showing sleep durations when sleep was less than 7hrs  and the corresponding days-->
+    <div id="result">
+        <p id="result_here"></p>
+        <table id="sleep_table"></table>
+    </div>
+
+</main>
+<footer>
+    <br>
+    <a href="https://validator.w3.org/">Validate HTML</a>
+    <br>
+    <a href="https://jigsaw.w3.org/css-validator/">Validate CSS</a>
+</footer>
+</body>
+</html>
